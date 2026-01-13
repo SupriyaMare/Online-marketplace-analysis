@@ -1,4 +1,4 @@
-# Online MArketplace Analysis
+# Online Marketplace Analysis
 
 ## Description
 
@@ -7,6 +7,7 @@ This repository contains a Power Bi dashboard of an Online store to answer quest
 
 ## Screenshot
 ![Uploading image.png…]()
+
 
 ## Installation
 
