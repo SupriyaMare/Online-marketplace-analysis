@@ -6,7 +6,8 @@ This repository contains a Power Bi dashboard of an Online store to answer quest
 <!--Analyzed E-commerce store data. Created an interactive dashboard using Power BI.-->
 
 ## Screenshot
-![Uploading image.png…]()
+
+<img width="1495" height="839" alt="Screenshot 2026-01-13 122211" src="https://github.com/user-attachments/assets/1fa3cb17-326a-4206-86d1-8ad9de9b7c59" />
 
 
 ## Installation
